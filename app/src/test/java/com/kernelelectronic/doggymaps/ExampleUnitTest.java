@@ -1,4 +1,4 @@
-package com.kernelelectronic.doggymap;
+package com.kernelelectronic.doggymaps;
 
 import org.junit.Test;
 

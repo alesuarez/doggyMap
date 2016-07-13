@@ -5,8 +5,8 @@ android {
     buildToolsVersion "23.0.3"
 
     defaultConfig {
-        applicationId "com.kernelelectronic.doggymap"
-        minSdkVersion 16
+        applicationId "com.kernelelectronic.doggymaps"
+        minSdkVersion 17
         targetSdkVersion 23
         versionCode 1
         versionName "1.0"
